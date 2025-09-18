@@ -1,6 +1,6 @@
 # 🚀 User Profiles Dashboard 
 
-A React application that displays **10 user profiles** with avatars, fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users).  
+A React-based dashboard that fetches and displays 10 user profiles with dynamic avatars. The app provides a clean, responsive interface styled with Bootstrap and demonstrates modern frontend development practices such as API integration, state management, and component-based UI.
 
 🌐 **Live Demo:** [User Profiles App](https://user-profiles-basic-mjk3rj7ku-bhavana-yathams-projects.vercel.app)  
 
@@ -28,6 +28,24 @@ A React application that displays **10 user profiles** with avatars, fetched fro
 
 ---
 
+## Project Structure
+
+user-profiles-basic/
+├── public/                
+│   ├── index.html         
+├── src/                      
+│   │──UserCard.js   
+│   ├── App.js            
+│   ├── App.css            
+│   ├── index.js          
+│   └── index.css                      
+├── .gitignore            
+├── package.json           
+├── README.md             
+└── yarn.lock / package-lock.json
+
+
+
 ## ⚙️ Setup & Installation  
 
 1.Clone the repository**  
@@ -51,6 +69,9 @@ A React application that displays **10 user profiles** with avatars, fetched fro
 
 This project is deployed on Vercel.
 You can view it live here 👉 **Live Demo:** [User Profiles App](https://user-profiles-basic-mjk3rj7ku-bhavana-yathams-projects.vercel.app)  
+
+## License  
+This project is licensed under the MIT License.
 
 👩‍💻 Author
 
