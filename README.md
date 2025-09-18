@@ -30,8 +30,9 @@ A React application that displays **10 user profiles** with avatars, fetched fro
 
 ## ⚙️ Setup & Installation  
 
-1. **Clone the repository**  
-   ```bash
+1.Clone the repository**  
+   ```
+   bash
    ```
 2.Install dependencies
   ```
