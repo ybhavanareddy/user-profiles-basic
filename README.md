@@ -50,7 +50,7 @@ A React application that displays **10 user profiles** with avatars, fetched fro
 📦 Deployment
 
 This project is deployed on Vercel.
-You can view it live here 👉 User Profiles App
+You can view it live here 👉 **Live Demo:** [User Profiles App](https://user-profiles-basic-mjk3rj7ku-bhavana-yathams-projects.vercel.app)  
 
 👩‍💻 Author
 
