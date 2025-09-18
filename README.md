@@ -1,19 +1,60 @@
-# React Assignment 1 - User Profiles
+# 🚀 User Profiles Dashboard 
 
-A React app displaying 10 user profiles with avatars, fetched from https://jsonplaceholder.typicode.com/users.
+A React application that displays **10 user profiles** with avatars, fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users).  
 
-## Live Demo
-[Vercel URL] (e.g., https://yatha-assignment1.vercel.app)
+🌐 **Live Demo:** [User Profiles App](https://user-profiles-basic-mjk3rj7ku-bhavana-yathams-projects.vercel.app)  
 
-## GitHub Repository
-[GitHub URL] (e.g., https://github.com/YourUsername/react-assignment-1)
+---
 
-## Features
-- Displays user cards with name, email, phone, address, website, and company.
-- Uses Bootstrap for styling and a custom spinner while loading.
-- Avatars generated via DiceBear API.
+## ✨ Features  
+- 📇 Display of user cards with:  
+  - Name  
+  - Email  
+  - Phone  
+  - Address  
+  - Website  
+  - Company  
+- 🎨 Styled with **Bootstrap** for a clean and responsive UI.  
+- ⏳ Custom **loading spinner** while fetching data.  
+- 🖼️ Avatars generated dynamically via **[DiceBear API](https://www.dicebear.com/)**.  
 
-## Setup
-1. Clone the repo: `git clone <GitHub URL>`
-2. Install dependencies: `npm install`
-3. Start the app: `npm start`
+---
+
+## 🛠️ Tech Stack  
+- **React** (Frontend framework)  
+- **Bootstrap** (Styling)  
+- **Fetch API / Axios** (Data fetching)  
+- **Vercel** (Deployment)  
+
+---
+
+## ⚙️ Setup & Installation  
+
+1. **Clone the repository**  
+   ```bash
+   ```
+2.Install dependencies
+  ```
+  npm install
+```
+3.Run locally
+ ```
+  npm start
+ ```
+4.Build for production
+```
+  npm run build
+```
+
+📦 Deployment
+
+This project is deployed on Vercel.
+You can view it live here 👉 User Profiles App
+
+👩‍💻 Author
+
+Bhavana Yatham
+💼 LinkedIn: http://www.linkedin.com/in/yatham-bhavana
+
+💻 GitHub:https://github.com/ybhavanareddy
+  
