@@ -50,7 +50,8 @@ user-profiles-basic/
 
 1.Clone the repository**  
    ```
-   bash
+   git clone https://github.com/ybhavanareddy/user-profiles-basic
+   cd user-profiles-basic
    ```
 2.Install dependencies
   ```
